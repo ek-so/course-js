@@ -1,7 +1,6 @@
 const defaultResult = 0;
 let currentResult = defaultResult;
 let logEntries = [];
-console.log(typeof 1);
 
 //Gets input from input field
 function getUserNumberInput() {
